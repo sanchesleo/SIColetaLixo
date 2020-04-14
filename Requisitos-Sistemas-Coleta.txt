@@ -1,0 +1,17 @@
+Brainstorm antes de possuir as referências:
+- Inserir sensores nos caminhões para que possa ser mensurado o volume de lixo em cada um deles.
+- Implemetar um sistema de geolocalização para que possa ser medido o controle de tráfego nas regiões em que o lixo será pego.
+
+
+Brainstorm depois de possuir as referências:
+- Definir onde o lixo será entregue pelo local mais próximo.
+- Implemetar rotas com objetivos definidos para que possa ser economizado tempo e que os custos possam ser reduzidos.
+- Fazer a geolocalização por meio de APIs para agilizar o processo.
+
+
+Fontes: https://www.cobli.co/recursos/roteirizacao-de-frota-e/
+	https://meuresiduo.com/en/
+
+
+Nome: Leonardo Sanches Alves de Oliveira
+RM: 82064
